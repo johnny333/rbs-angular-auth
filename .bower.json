@@ -1,0 +1,56 @@
+{
+  "name": "@programisci-eu/rbs-angular-auth",
+  "authors": [
+    "Pogramisci.eu"
+  ],
+  "contributors": [
+    "Jakub Kołecki <jakub.kolecki@programisci.eu>"
+  ],
+  "description": "Moduł autoryzacji Angular.js",
+  "main": "dist/js/rbs-angular-auth.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "publishConfig": {
+    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
+  },
+  "private": false,
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-mocks": "1.5.8",
+    "string": "3.3.3",
+    "bignumber.js": "3.0.0",
+    "lodash": "4.17.2",
+    "jsjws": "3.2.2",
+    "crypto-js-evanvosberg": "3.1.8",
+    "jsrsasign": "6.2.0",
+    "ngstorage": "0.3.11",
+    "angular-ui-router": "ui-router#0.2.18",
+    "rbs-angular-core": "git@bitbucket.org:programisci_eu/rbs-angular-form-directives.git#master",
+    "jasmine-promise-matchers": "2.1.0",
+    "jasmine-object-matchers": "0.1.0"
+  },
+  "resolutions": {
+    "angular": "1.5.8",
+    "lodash": "4.17.2",
+    "string": "3.3.3",
+    "jasmine-promise-matchers": "2.1.0",
+    "bignumber.js": "3.0.0",
+    "angular-mocks": "1.5.8"
+  },
+  "_release": "d5e1683f77",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d5e1683f775849265dfef24dff794a24ee6152fb"
+  },
+  "_source": "git@bitbucket.org:programisci_eu/rbs-angular-auth.git",
+  "_target": "master",
+  "_originalSource": "git@bitbucket.org:programisci_eu/rbs-angular-auth.git"
+}
