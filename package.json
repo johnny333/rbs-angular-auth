@@ -7,8 +7,6 @@
   "dependencies": {
     "coffeescript-mixins": "git+ssh://git@github.com:johnny333/coffeescript-mixins.git#master",
     "parsimmon": "1.12.0"
-  },"publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
   },
   "private": false,
   
@@ -69,10 +67,6 @@
   },
   "scripts": {
     "test": "gulp test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:programisci_eu/rbs-angular-auth.git"
   },
   "contributors": [
     "Jakub Kołecki <jakub.kolecki@programisci.eu>"

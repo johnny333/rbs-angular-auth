@@ -16,9 +16,7 @@
     "bower_components",
     "test",
     "tests"
-  ],"publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
-  },
+  ],
   "private": false,
   "dependencies": {
     "angular": "1.5.8",
@@ -31,7 +29,7 @@
     "jsrsasign": "6.2.0",
     "ngstorage": "0.3.11",
     "angular-ui-router": "ui-router#0.2.18",
-    "rbs-angular-core": "git@bitbucket.org:programisci_eu/rbs-angular-form-directives.git#master",
+    "rbs-angular-core": "https://github.com/johnny333/rbs-angular-form-directives.git#main",
     "jasmine-promise-matchers": "2.1.0",
     "jasmine-object-matchers": "0.1.0"
   },
